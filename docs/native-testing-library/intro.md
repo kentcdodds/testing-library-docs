@@ -66,7 +66,7 @@ neither can your tests. We believe that writing good tests using this library
 will force you to give more consideration to whether what you're doing is an
 accessible experience for all of your users.
 
-This library should, in theory, work with any any testing framework like Jest or
+This library should, in theory, work with any testing framework like Jest or
 Mocha, but we do recommend you use Jest with the `react-native` Jest preset. We
 have not tested it in any other environment, and likely won't be able to support
 usage with another library.
